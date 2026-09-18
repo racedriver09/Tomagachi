@@ -1,0 +1,14 @@
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\bin\Debug\net10.0\ta.exe
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\bin\Debug\net10.0\ta.deps.json
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\bin\Debug\net10.0\ta.runtimeconfig.json
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\bin\Debug\net10.0\ta.dll
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\bin\Debug\net10.0\ta.pdb
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\obj\Debug\net10.0\ta.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\obj\Debug\net10.0\ta.AssemblyInfoInputs.cache
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\obj\Debug\net10.0\ta.AssemblyInfo.cs
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\obj\Debug\net10.0\ta.csproj.CoreCompileInputs.cache
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\obj\Debug\net10.0\ta.dll
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\obj\Debug\net10.0\refint\ta.dll
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\obj\Debug\net10.0\ta.pdb
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\obj\Debug\net10.0\ta.genruntimeconfig.cache
+c:\Users\sebastian.mann\Downloads\tomagachi\ta\obj\Debug\net10.0\ref\ta.dll
